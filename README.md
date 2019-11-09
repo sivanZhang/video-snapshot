@@ -1,7 +1,8 @@
 # video-snapshot
 
 > 这是一个视频标注的组件，可以对视频的任何一帧截图并且在截图中做标注、保存截图。
-
+## 在线访问
+[在线访问](http://www.chidict.com/demos/video/)
 ## 视频预览
 [![Watch the video](https://zjwvedio.oss-cn-beijing.aliyuncs.com/11.png)](https://zjwvedio.oss-cn-beijing.aliyuncs.com/table.mp4)
 ## 使用说明
