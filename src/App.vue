@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <VideoAnnotation :play-list="PlayList" @get-image-list="getImageList" />
+    <VideoSnapshot :play-list="PlayList" @get-image-list="getImageList" />
     <ul class="img-list" v-if="imgList.length > 0">
       <li class="img-item" v-for="(item,index) in imgList" :key="index">
         <el-image
@@ -23,10 +23,10 @@
   </div>
 </template>
 <script>
-import VideoAnnotation from "./components/VideoAnnotation";
+import VideoSnapshot from "@/components/video-snapshot";
 export default {
   components: {
-    VideoAnnotation
+    VideoSnapshot
   },
   data() {
     return {

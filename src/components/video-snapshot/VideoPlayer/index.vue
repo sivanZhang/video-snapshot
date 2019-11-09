@@ -69,7 +69,7 @@ import iconLower from "./icons/icon-lower.png";
 import iconFullscreen from "./icons/icon-fullscreen.png";
 import iconMark from "./icons/icon-mark.png";
 import { Loading } from "element-ui";
-import ImageDraw from "@/components/ImageDraw";
+import ImageDraw from "../ImageDraw";
 import { constants } from "crypto";
 
 export default {

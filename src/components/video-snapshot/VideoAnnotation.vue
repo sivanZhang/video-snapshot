@@ -21,8 +21,8 @@
 </template>
 
 <script>
-import VideoPlayer from "../VideoPlayer";
-import VideoList from "../VideoList";
+import VideoPlayer from "./VideoPlayer";
+import VideoList from "./VideoList";
 export default {
   components: { VideoPlayer, VideoList },
   props: {
