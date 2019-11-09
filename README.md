@@ -3,7 +3,7 @@
 > 这是一个视频标注的组件，可以对视频的任何一帧截图并且在截图中做标注、保存截图。
 
 ## 视频预览
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](./ublic/video.mp4)
+[![Watch the video](https://zjwvedio.oss-cn-beijing.aliyuncs.com/11.png)](https://zjwvedio.oss-cn-beijing.aliyuncs.com/table.mp4)
 ## 使用说明
    使用时直接把[本git项目](https://github.com/sivanZhang/video-snapshot)中components文件夹下的video-snapshot文件夹复制到需要引用的项目中，然后inport使用：
 
