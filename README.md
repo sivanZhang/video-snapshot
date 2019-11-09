@@ -5,7 +5,7 @@
 ## 视频预览
   
 <video src="./ublic/video.mp4"></video>
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](./ublic/video.mp4)
 ## 使用说明
    使用时直接把[本git项目](https://github.com/sivanZhang/video-snapshot)中components文件夹下的video-snapshot文件夹复制到需要引用的项目中，然后inport使用：
 
