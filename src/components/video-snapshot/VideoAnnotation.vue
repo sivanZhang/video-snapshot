@@ -71,8 +71,8 @@ export default {
       this.currentVideoIsEdit = !mode;
       // console.log("currentVideoIsEdit", this.currentVideoIsEdit);
     },
-    getCurrentPlayId({ task }) {
-      this.$refs.videoList.getCurrentPlayId(task.id);
+    getCurrentPlayId({ id }) {
+      this.$refs.videoList.getCurrentPlayId(id);
     }
   }
 };

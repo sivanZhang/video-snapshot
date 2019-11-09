@@ -45,6 +45,8 @@ export default {
   created() {},
   methods: {
     getCurrentPlayId(id) {
+      console.log(id);
+      
       this.currentPlayId = id;
     },
     initSource(index) {
@@ -54,7 +56,7 @@ export default {
       if (index + 1 != this.selectList.length) {
         PlayList[1] = this.selectList[index + 1];
       } else {
-        PlayList[1] = null;
+        PlayList[1] = PlayList[0];
       }
       this.$emit("initSource", PlayList, index, this.selectList);
     },
