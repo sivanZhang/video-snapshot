@@ -1,4 +1,4 @@
-# edit-excel
+# video-snapshot
 
 ## Project setup
 ```
