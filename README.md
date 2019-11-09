@@ -4,8 +4,7 @@
 
 ## 视频预览
   
-<video src="https://github.com/sivanZhang/video-snapshot/public/video.mp4" controls="controls" width="800" height="450">您的浏览器不支持播放该视频！</video>
-[![ScreenShot](/upload/ask/29/W/WebMole_Youtube_Video.png)](./public/video.mp4)
+<video src="./ublic/video.mp4"></video>
 
 ## 使用说明
    使用时直接把[本git项目](https://github.com/sivanZhang/video-snapshot)中components文件夹下的video-snapshot文件夹复制到需要引用的项目中，然后inport使用：
