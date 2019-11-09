@@ -85,4 +85,4 @@ npm run serve
 
 | 事件名称 | 说明 | 回调参数 |
 | --------- | --------- | --------- | 
-| get-image-list| 视频标注完成后触发| getImageList：编辑完后的表格数据；属性说明：currentFrame（当前截图的帧数），imgUrl（图片地址，base64格式），currentPosition（当前播放位置或者时间点），currentProject（播放对象数据）|
+| get-image-list| 视频标注完成后触发| getImageList：标注完后返回的标注对象；属性说明：currentFrame（当前截图的帧数），imgUrl（图片地址，base64格式），currentPosition（当前播放位置或者时间点），currentProject（播放对象数据）|
