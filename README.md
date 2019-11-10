@@ -1,8 +1,8 @@
 # video-snapshot
 
 > 这是一个视频标注的组件，可以对视频的任何一帧截图并且在截图中做标注、保存截图。
-## 在线Demo
-[在线访问](http://www.chidict.com/demos/video/)
+## 在线demo
+[在线访问](https://www.chidict.com/demos/video/)
 ## 使用说明
    使用时直接把[本git项目](https://github.com/sivanZhang/video-snapshot)中components文件夹下的video-snapshot文件夹复制到需要引用的项目中，然后inport使用：
 
