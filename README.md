@@ -41,8 +41,7 @@ export default {
 };
 </script>
 ```
-## 视频预览
-[![Watch the video](https://zjwvedio.oss-cn-beijing.aliyuncs.com/11.png)](https://zjwvedio.oss-cn-beijing.aliyuncs.com/table.mp4)
+
 # DEMO
 > 本项目可下载到本地，作为demo参考。
 ## Demo结构
@@ -68,7 +67,8 @@ npm install
 # 启动服务
 npm run serve
 ```
-
+## 视频预览
+[![Watch the video](https://zjwvedio.oss-cn-beijing.aliyuncs.com/11.png)](https://zjwvedio.oss-cn-beijing.aliyuncs.com/table.mp4)
 
 # 组件说明
 
