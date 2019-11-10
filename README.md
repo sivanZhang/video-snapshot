@@ -67,7 +67,7 @@ npm install
 # 启动服务
 npm run serve
 ```
-## 视频预览
+## 视频预览效果
 [![Watch the video](https://zjwvedio.oss-cn-beijing.aliyuncs.com/11.png)](https://zjwvedio.oss-cn-beijing.aliyuncs.com/table.mp4)
 
 # 组件说明
