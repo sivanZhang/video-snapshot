@@ -1,9 +1,9 @@
 # video-snapshot
 
 > 这是一个视频标注的组件，可以对视频的任何一帧截图并且在截图中做标注、保存截图。
-## 在线demo
+#### 在线demo
 [在线访问](https://www.chidict.com/demos/video/)
-## 使用说明
+#### 使用说明
    使用时直接把[本git项目](https://github.com/sivanZhang/video-snapshot)中components文件夹下的video-snapshot文件夹复制到需要引用的项目中，然后inport使用：
 
 
@@ -44,7 +44,7 @@ export default {
 
 # DEMO
 > 本项目可下载到本地，作为demo参考。
-## Demo结构
+#### Demo结构
 
 ``` bash
 │ 
@@ -52,7 +52,7 @@ export default {
 └── components
     └── video-snapshot    # 封装video-snapshot组件文件夹
 ```
-## 启动demo项目
+#### 启动demo项目
 
 ```bash
 # 克隆项目
@@ -67,12 +67,12 @@ npm install
 # 启动服务
 npm run serve
 ```
-## 视频预览效果
+#### 视频预览效果
 [![Watch the video](https://zjwvedio.oss-cn-beijing.aliyuncs.com/11.png)](https://zjwvedio.oss-cn-beijing.aliyuncs.com/table.mp4)
 
 # 组件说明
 
-##  Attribute
+####  Attribute
 
 
 | 属性名称 | 说明 | 类型 | 默认值 |
@@ -81,7 +81,7 @@ npm run serve
 
 
 
-##  Events
+####  Events
 
 
 | 事件名称 | 说明 | 回调参数 |
