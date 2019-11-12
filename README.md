@@ -4,7 +4,7 @@
 
 [在线demo](https://www.chidict.com/demos/video/)
 #### 使用说明
-   使用时直接把[本git项目](https://github.com/sivanZhang/video-snapshot)中components文件夹下的video-snapshot文件夹复制到需要引用的项目中，然后import使用：
+   使用时直接把[本git项目](https://github.com/sivanZhang/video-snapshot)中components文件夹下的video-snapshot文件夹复制到需要引用的项目中，然后引入组件使用：
 
 
 template:
