@@ -19,7 +19,7 @@
     "video-capture": "^1.0.2",
     "videojs": "^1.0.0",
     "vue": "^2.6.10",
-    "xlsx": "^0.15.1"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
